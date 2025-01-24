@@ -78,7 +78,8 @@ Implement a function that displays a notification after a specified delay
 
 Task 3: Repeat Notification
 
-Develop a function that repeatedly displays a notification at fixed intervals
+Develop a function that repeatedly displays a notification at
+ fixed intervals
  until the user dismisses it. 
 
 Use setInterval to schedule the notifications.
