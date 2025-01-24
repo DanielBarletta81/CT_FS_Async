@@ -1,8 +1,6 @@
 Problem Statement: You are tasked with developing a web application that interacts with the Marvel Comics API. The application should handle asynchronous operations such as fetching data and updating the user interface dynamically using modern JavaScript features.
 
 
-
-
 Task 1: Obtaining API Key and Configuration
 
 Obtain an API key from the Marvel Comics API website. Investigate and understand 
